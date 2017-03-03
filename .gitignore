@@ -1,0 +1,4 @@
+node_modules
+resources
+npm-debug.log
+public/bundles
